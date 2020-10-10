@@ -1,0 +1,56 @@
+a {
+    font-family: "Libre Baskerville";
+    letter-spacing: 2px;
+    text-align: center;
+    color: #D1B424;
+    font-size: 15px;
+  }
+
+  h1 {
+    font-family: "Libre Baskerville";
+    letter-spacing: 2px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 30px;
+  }
+
+  header {
+    padding: 15px;
+    margin-bottom: 0px;
+    background:black;
+  }
+
+  .container {
+      font-family: "EB Garamond"
+      padding 0px;
+      margin-top: 0px;
+      margin-bottom: 0px;
+      background-color:#f0e09a;
+      width: 800px;
+      height: 930px;
+      }
+
+
+  h2 {
+      font-family:"Libre Baskerville";
+      text-align: center;
+      font-size: 80px;
+      color: black;
+
+  }
+
+  .background {
+      background-image: url('../Homework3/Assets/Images/51.jpg');
+      background-size: cover;
+      background-attachment: fixed;
+  }
+
+  .float-img {
+      float: left;
+      margin-left: 25px;
+      margin-right: 25px;
+      margin-bottom: 8px;
+      border: solid black 3px;
+      padding: 2px;
+  }
+

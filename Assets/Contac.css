@@ -1,0 +1,43 @@
+a {
+    font-family: "Libre Baskerville";
+    letter-spacing: 2px;
+    text-align: center;
+    color: rosybrown;
+    font-size: 15px;
+  }
+
+  h1 {
+    font-family: "Libre Baskerville";
+    letter-spacing: 2px;
+    text-align: center;
+    color: whitesmoke;
+    font-size: 30px;
+  }
+
+  header {
+    padding: 15px;
+    margin-bottom: 0px;
+    background:black;
+  }
+
+  .container {
+      font-family: "EB Garamond"
+      padding 15px;
+      margin-top: 20px;
+      margin-bottom: 15px;;
+      background-color:#f0e09a;
+      width: 600px;
+      height: 450px;
+  }
+
+  h2 {
+      font-family: "Libre baskerville";
+      font-size: 50px;
+      color: black;
+  }
+
+  .background {
+    background-image: url('../Assets/Images/4462526.jpg');
+    background-size: cover;
+    background-attachment: fixed;
+  }
